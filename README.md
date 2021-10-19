@@ -1,8 +1,6 @@
-adding text to the README.md file on new branch
 
+# Good morning, Lynn!
 
-i added new text just to double check some stuff
+### Hope you had a good night sleep and woke up feeling excited to take on our first paired project!
 
-adding more text for practice
-
-Just adding this line for fun. 
+**See you in class :)**
